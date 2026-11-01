@@ -58,7 +58,7 @@ CoAP_Lab/
 
 ### Bước 1: Clone kho mã nguồn từ GitHub
 ```bash
-git clone [https://github.com/<tai-khoan-github>/CoAP_Lab.git](https://github.com/LeDinhThucPTIT/ThuchanhIOT_Buoi3)
+git clone (https://github.com/LeDinhThucPTIT/ThuchanhIOT_Buoi3)
 cd CoAP_Lab
 ```
 
