@@ -332,3 +332,4 @@ Khi triển khai Server và Client trên hai máy tính độc lập trong mạn
   - Định dạng chuẩn JSON (`application/json`).
   - Cơ chế **CoAP Observe (RFC 7641)** tự động thông báo mà không cần Polling.
 - Mã nguồn được tổ chức module hóa, xử lý ngoại lệ chặt chẽ (Timeout, đứt kết nối, dừng chương trình với `Ctrl+C`).
+"# ThuchanhIOT_Buoi3" 
