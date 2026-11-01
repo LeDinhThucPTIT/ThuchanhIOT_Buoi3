@@ -6,10 +6,11 @@
 ---
 
 ## 1. Thông tin sinh viên / Nhóm thực hiện
-- **Họ và tên:** Nguyễn Văn A
-- **Mã sinh viên:** B23DCCN001
-- **Lớp:** D23CQCN01-B
-- **Email:** nguyenvana@ptit.edu.vn / sinhvien@example.com
+| Họ và tên | Mã sinh viên |
+| :--- | :--- |
+| Lê Đình Thức | B23DCCN803 |
+| Đỗ Minh Hoàng | B23DCCN328 |
+| Nguyễn Hoàng Quốc Việt | B22DCCN897 |
 
 ---
 
